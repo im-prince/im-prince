@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @im-prince
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning JAVA
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me princek801301@gmail.com
 - 
